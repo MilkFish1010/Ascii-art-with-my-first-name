@@ -1,4 +1,4 @@
-# The backlashes in the ascii art creates a syntax warning that's why I made a raw string.
+# The backlashes in the ASCII art create a syntax warning that's why I made it a raw string instead.
 
 first_name = r"""
   _    _       _                                     _           _           
