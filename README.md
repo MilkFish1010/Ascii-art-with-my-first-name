@@ -1,5 +1,5 @@
              Hello Sir Val! I'm new to programming and learned a lot and had fun from this first activity, thank you, Sir! 
-
+"""
  ________  __                            __                                           
 /        |/  |                          /  |                                          
 $$$$$$$$/ $$ |____    ______   _______  $$ |   __        __    __   ______   __    __ 
@@ -12,3 +12,4 @@ $$$$$$$$/ $$ |____    ______   _______  $$ |   __        __    __   ______   __ 
                                                         /  \__$$ |                    
                                                         $$    $$/                     
                                                          $$$$$$/                      
+"""
