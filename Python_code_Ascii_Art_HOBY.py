@@ -11,4 +11,4 @@ first_name = r"""
                      |___/ """
 print(first_name)
 
-# Hi Sir Val! The Ascii art generator I used is from your presentation in laboratory class: https://patorjk.com/software/taag/#p=display&f=Big&t=Hoby%20Ace%20Jerico
+# Hi Sir Val! The ASCII art generator I used is from your presentation in laboratory class: https://patorjk.com/software/taag/#p=display&f=Big&t=Hoby%20Ace%20Jerico
